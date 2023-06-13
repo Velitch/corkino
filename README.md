@@ -5,6 +5,8 @@
 
 <a href="https://www.buymeacoffee.com/gabrielavelitch"><img src="https://img.buymeacoffee.com/button-api/?text=or, why not a book?&emoji=📖&slug=gabrielavelitch&button_colour=FF5F5F&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
+![alt text](/img/corkino.jpeg)
+
 
 - Ultra-portable all-in-one MaxMSP controller
 - Compact, durable design for mobile performers and producers
@@ -27,4 +29,4 @@ corkino comes packed with a demo version of MaxMSP 8, an infinitely flexible spa
 ### USB Power & Class Compliance
 For maximum portability, corkino is powered over USB and supports plug-and-play connectivity. Users can even run multiple corkino in parallel for more versatility.
 
-**Find out more on my website**[www.gabrielavelitch.com](https://www.gabrielavelitch.com/pages/projects/corkino.html)
+**Find out more on my website** [**www.gabrielavelitch.com**](https://www.gabrielavelitch.com/pages/projects/corkino.html)
