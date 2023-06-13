@@ -30,3 +30,5 @@ corkino comes packed with a demo version of MaxMSP 8, an infinitely flexible spa
 For maximum portability, corkino is powered over USB and supports plug-and-play connectivity. Users can even run multiple corkino in parallel for more versatility.
 
 **Find out more on my website** [**www.gabrielavelitch.com**](https://www.gabrielavelitch.com/pages/projects/corkino.html)
+
+![alt text](/img/ui_corkino.png)
