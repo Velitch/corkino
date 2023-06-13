@@ -21,8 +21,10 @@ corkino features an expanded 6 buttons grid that’s built for hands-on explorat
 ### Seamless Integration
 corkino comes pre-mapped to MaxMSP for an instant performance and production setup. When corkino is plugged into your computer, its hardware controls correspond 1 to 1 with MaxMSP’s interface—no additional configuring is required. Whether you are an electronic music artist and MaxMSP is your canvas, a musician using MaxMSP for performance and real-time mixing, or a more traditional musician using MaxMSP on stage or in the studio, you will find the corkino to be the intuitive, powerful instrument that directly links your inspiration with MaxMSP.
 
+### Production Content Included
+corkino comes packed with a demo version of MaxMSP 8, an infinitely flexible space to create your own interactive software. MaxMSP enables musicians and producers to connect ideas together to create software built around you, in the moment, exploring sound without limits.
+
 ### USB Power & Class Compliance
 For maximum portability, corkino is powered over USB and supports plug-and-play connectivity. Users can even run multiple corkino in parallel for more versatility.
 
-### Production Content Included
-corkino comes packed with a demo version of MaxMSP 8, an infinitely flexible space to create your own interactive software. MaxMSP enables musicians and producers to connect ideas together to create software built around you, in the moment, exploring sound without limits.
+**Find out more on my website**[www.gabrielavelitch.com](https://www.gabrielavelitch.com/pages/projects/corkino.html)
